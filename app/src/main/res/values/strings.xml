@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="division_array">
+        <item>COSC</item>
+        <item>DATA</item>
+        <item>MATH</item>
+    </string-array>
+</resources>
